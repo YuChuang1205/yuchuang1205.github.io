@@ -40,6 +40,28 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2025</div>
+      <img src='images/mind_teaser.png' alt="MIND" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  [**MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models**](https://arxiv.org/abs/2512.05530)
+
+  **Chuang Yu**, Jinmiao Zhao, Mingxuan Zhao, Yunpeng Liu\*, Xiujun Shu, Yuanhao Feng, Bo Wang, Xiangyu Yue\*
+
+  [**Paper**](https://arxiv.org/abs/2512.05530)
+  <!-- 如果你之后接入 Scholar Action，可加引用数 -->
+  <!-- <strong><span class='show_paper_citations' data='YOUR_ID:YOUR_PAPER_ID'></span></strong> -->
+
+  - A multi-rationale integrated discriminative reasoning framework for multi-modal large models.
+  </div>
+</div>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
