@@ -198,7 +198,7 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 <div class="pub-item">
-  <img src="../images/FEST-Net_main.png">
+  <img src="../images/FEST_main.png">
   <div class="pub-content">
     <h3>Towards Robust Infrared Small Target Detection: A Feature-Enhanced and Sensitivity-Tunable Framework</h3>
     <p>
