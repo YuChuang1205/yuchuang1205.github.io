@@ -114,6 +114,26 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
+<div class="pub-item">
+  <img src="../images/FDEP_main.png">
+  <div class="pub-content">
+    <h3>Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Jinmiao Zhao, Yunpeng Liu*, Yaokun Li, Xiujun Shu, Yuanhao Feng, Bo Wang, Yimian Dai, Xiangyu Yue*<br>
+
+      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
+    </p>
+    <p class="pub-desc">
+      We rethink infrared small target detection from a foundation-model perspective and propose an efficient, foundation-driven paradigm that improves generalization and deployment efficiency across diverse infrared scenarios.
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2512.05511">Paper</a>
+      <!-- | <a href="https://your-project-page.github.io/">Project</a> -->
+      <!-- | <a href="https://github.com/your-repo">Code</a> -->
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
