@@ -108,7 +108,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://arxiv.org/abs/2512.05530">Paper</a>
       <!-- | <a href="https://mind-project.github.io/">Project</a> -->
-      <!-- | <a href="https://github.com/xxx/MIND">Code</a> -->
+      <a href="https://github.com/xxx/MIND">Code</a>
     </p>
   </div>
 </div>
@@ -129,7 +129,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://arxiv.org/abs/2512.05511">Paper</a>
       <!-- | <a href="https://your-project-page.github.io/">Project</a> -->
-      <!-- | <a href="https://github.com/your-repo">Code</a> -->
+      <a href="https://github.com/your-repo">Code</a>
     </p>
   </div>
 </div>
@@ -163,7 +163,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Jinmiao Zhao, Xiangyu Yue*<br>
 
-      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2024</strong>
+      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
       We present a knowledge-guided learning framework that explicitly models the “why” and “how” of cross-spectral discrepancies, enabling robust and discriminative patch matching across heterogeneous spectral domains.
