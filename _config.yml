@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chuang Yu (余创)"
-description              : "Focusing on Multimodal Chain-of-Thought (MCoT), Image/Video Understanding and Reasoning, Infrared small target detection"
+description              : "Focusing on MCoT, Image/Video Understanding and Reasoning, SIRST detection"
 repository               : "yuchuang1205/yuchuang1205.github.io"
 google_scholar_stats_use_cdn : true
 
