@@ -157,7 +157,7 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 <div class="pub-item">
-  <img src="../images/KGL-Net.png">
+  <img src="../images/KGL-Net_main.png">
   <div class="pub-content">
     <h3>Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching</h3>
     <p>
@@ -177,7 +177,7 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 <div class="pub-item">
-  <img src="../images/RRL-Net.png">
+  <img src="../images/RRL-Net_main.png">
   <div class="pub-content">
     <h3>Relational Representation Learning Network for Cross-Spectral Image Patch Matching</h3>
     <p>
@@ -196,6 +196,69 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
+<div class="pub-item">
+  <img src="../images/FIL-Net_main.png">
+  <div class="pub-content">
+    <h3>Feature Interaction Learning Network for Cross-Spectral Image Patch Matching</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Jinmiao Zhao, Shuhang Wu, Zhuhua Hu<br>
+
+      <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Image Processing, 2023 (Accepted)</strong>
+    </p>
+    <p class="pub-desc">
+      We propose a feature interaction learning network that explicitly models inter-feature relationships across heterogeneous spectra, significantly improving robustness and discriminability for cross-spectral image patch matching.
+    </p>
+    <p>
+      <a href="https://doi.org/xxxx.xxxx/TIP.2023.xxxxx">Paper</a> |
+      <a href="https://your-dataset-link/data1">Data1</a> |
+      <a href="https://your-dataset-link/data2">Data2</a> |
+      <a href="https://github.com/your-repo/FILN-CrossSpectral">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+<div class="pub-item">
+  <img src="../images/EFR-Net_main.png">
+  <div class="pub-content">
+    <h3>Efficient Feature Relation Learning Network for Cross-Spectral Image Patch Matching</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Jinmiao Zhao, Yunpeng Liu*, Shuhang Wu, Chenxi Li<br>
+
+      <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Geoscience and Remote Sensing, 2023 (Accepted)</strong>
+    </p>
+    <p class="pub-desc">
+      We propose an efficient feature relation learning network that models cross-spectral feature interactions with low computational overhead, achieving accurate and scalable image patch matching across heterogeneous spectral modalities.
+    </p>
+    <p>
+      <a href="https://doi.org/xxxx.xxxx/TGRS.2023.xxxxx">Paper</a> |
+      <a href="https://your-dataset-link/data">Data</a> |
+      <a href="https://github.com/your-repo/EFRLN-CrossSpectral">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+<div class="pub-item">
+  <img src="../images/MSDA-Net_main.png">
+  <div class="pub-content">
+    <h3>Multi-Scale Direction-Aware Network for Infrared Small Target Detection</h3>
+    <p>
+      Jinmiao Zhao, Zelin Shi*, <strong><u>Chuang Yu</u></strong>, Yunpeng Liu, Xinyi Ying, Yimian Dai<br>
+
+      <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Geoscience and Remote Sensing, 2025 (Accepted)</strong>
+    </p>
+    <p class="pub-desc">
+      We propose a multi-scale direction-aware network that explicitly models directional and scale-sensitive cues, significantly enhancing infrared small target detection performance under complex backgrounds.
+    </p>
+    <p>
+      <a href="https://doi.org/xxxx.xxxx/TGRS.2025.xxxxx">Paper</a> |
+      <a href="https://github.com/your-repo/MSDAN-IRSTD">Code</a>
+      <span style="margin-left:8px; font-weight:600;">🔥 100+⭐</span>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
