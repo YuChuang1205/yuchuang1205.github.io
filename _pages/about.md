@@ -136,7 +136,7 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 <div class="pub-item">
-  <img src="../images/paper_teasers/pal_progressive.gif">
+  <img src="../images/PAL_main.png">
   <div class="pub-content">
     <h3>From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision</h3>
     <p>
