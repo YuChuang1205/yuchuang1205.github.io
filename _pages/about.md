@@ -315,9 +315,21 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023 and 2024* <strong>Pacemaker to Merit Student of the University of Chinese Academy of Sciences (Top 1%)</strong>
 - *2021, 2023 and 2024* First Class Academic Scholarship of Shenyang Institute of Automation, CAS (Top 10%)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🚀 Some personal news reports:
+- **CAS President Award – Special Prize**  
+  中国科学院院长特别奖  
+  ([news report link])
+
+- **1st Place**, Water Body Extraction from High-resolution and Multi-modal Optical Images  
+  *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*  
+  ([news report link])
+
+- **1st Prize**, PRCV 2024 Wide-area Infrared Small Target Detection Challenge  
+  ([news report link])
+
+- **Outstanding Communist Youth League Member of the Chinese Academy of Sciences**  
+  中国科学院优秀共青团员  
+  ([news report link])
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
