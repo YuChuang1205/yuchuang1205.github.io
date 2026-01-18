@@ -343,4 +343,7 @@ Journal/Conference Reviewer
 - International Conference on Pattern Recognition (ICPR)
 
 # 🎯 Hobbies
-- 
+- 🍳 Cooking and exploring different cuisines
+- 🏃 Running and physical conditioning
+- 🎧 Music appreciation
+- 🎬 Watching films
