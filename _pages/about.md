@@ -260,7 +260,26 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
+<div class="pub-item">
+  <img src="../images/MFD-Net_main.png">
+  <div class="pub-content">
+    <h3>Multi-branch Feature Difference Learning Network for Cross-Spectral Image Patch Matching</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Chenxi Li et al.<br>
 
+      <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Geoscience and Remote Sensing, 2022 (Accepted)</strong>
+    </p>
+    <p class="pub-desc">
+      We propose a multi-branch feature difference learning network that explicitly captures cross-spectral discrepancies via complementary branches, enabling robust and discriminative image patch matching across heterogeneous spectral domains.
+    </p>
+    <p>
+      <a href="https://doi.org/xxxx.xxxx/TGRS.2022.xxxxx">Paper</a> |
+      <a href="https://github.com/your-repo/MBFDLN-CrossSpectral">Code1</a> |
+      <a href="https://github.com/your-repo/MBFDLN-CrossSpectral-v2">Code2</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
