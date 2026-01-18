@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Welcome to YuChuang's homepage!"
+excerpt: "Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -302,7 +302,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2025* <strong>CAS President Award – Special Prize 中国科学院院长特别奖 (Top 0.1%)</strong>
 - *2024* <strong>The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application (Team leader)</strong>
 - *2024* <strong>The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge (Team leader)</strong>
@@ -327,7 +327,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # ⚡ Services:
-- Journal/Conference Reviewer
+Journal/Conference Reviewer
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
