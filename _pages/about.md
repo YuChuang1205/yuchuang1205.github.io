@@ -28,17 +28,92 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+-----
+<style>
+  .pub-item {
+    display: flex;
+    align-items: flex-start; /* 改为顶部对齐，防止图片被拉伸变形 */
+    margin-bottom: 30px;
+    background-color: transparent;
+  }
+  
+  .pub-item img {
+    margin-right: 20px;   /* 图片与文字的间距 */
+    width: 220px;         /* 缩小图片宽度，使其高度更容易与简短的文字对齐 */
+    height: auto;         /* 确保图片按比例缩放，不被裁剪或拉伸 */
+    flex-shrink: 0;       /* 防止图片被 flex 容器挤压 */
+    border-radius: 4px;
+    object-fit: contain;  /* 确保内容完整 */
+  }
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  /* 右侧内容容器 */
+  .pub-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  /* 论文标题：调小字体 */
+  .pub-item h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 1.0rem;    /* 与正文 H3 接近，或设为 1.05rem */
+    line-height: 1.3;
+  }
+  
+  /* 作者、期刊信息：调小字体，与上面 News 字体大小一致 */
+  .pub-item p {
+    line-height: 1.4;     /* 增加行高，让文字占据的空间稍微变大，匹配图片高度 */
+    font-size: 0.85rem;   /* 这里的 0.85-0.9rem 通常是标准正文的大小 */
+    margin: 0;
+    color: #333;
+  }
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  /* 描述文字 */
+  .pub-desc {
+    margin-top: 5px !important;
+    margin-bottom: 8px !important;
+    color: #555;
+    font-style: italic;
+    font-size: 0.85rem !important; /* 保持一致的小号字体 */
+    line-height: 1.4 !important;
+  }
+
+  /* 链接颜色 */
+  .pub-content a {
+    font-size: 0.85rem;
+  }
+
+  .pub-divider {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+  }
+</style>
+
+
+<div class="pub-item">
+  <img src="../images/paper_teasers/mind.gif">
+  <div class="pub-content">
+    <h3>MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Jinmiao Zhao, Mingxuan Zhao, Yunpeng Liu*, Xiujun Shu, Yuanhao Feng, Bo Wang, Xiangyu Yue*<br>
+
+      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
+    </p>
+    <p class="pub-desc">
+      We propose MIND, a multi-rationale integrated discriminative reasoning framework that enhances multi-modal large models through structured rationale integration and hard negative discrimination.
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2512.05530">Paper</a>
+      <!-- | <a href="https://mind-project.github.io/">Project</a> -->
+      <!-- | <a href="https://github.com/xxx/MIND">Code</a> -->
+    </p>
+  </div>
 </div>
-</div>
+<hr class="pub-divider">
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
