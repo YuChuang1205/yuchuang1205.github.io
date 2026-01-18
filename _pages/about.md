@@ -150,7 +150,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://arxiv.org/abs/xxxx.xxxxx">Paper</a> |
       <a href="https://github.com/your-repo/PAL">Code</a>
-      <span style="margin-left:8px; font-weight:600;">🔥 200+⭐</span>
+      <span style="margin-left:8px; font-weight:600;">🔥 Github 200+⭐</span>
     </p>
   </div>
 </div>
@@ -191,7 +191,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://doi.org/xxxx.xxxx/TGRS.2025.xxxxx">Paper</a> |
       <a href="https://github.com/your-repo/MSDAN-IRSTD">Code</a>
-      <span style="margin-left:8px; font-weight:600;">🔥 100+⭐</span>
+      <span style="margin-left:8px; font-weight:600;">🔥 Github 100+⭐</span>
     </p>
   </div>
 </div>
