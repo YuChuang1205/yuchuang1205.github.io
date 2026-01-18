@@ -339,7 +339,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # ⚡ Academic Service:
 - Conference Reviewer: CVPR, ICCV, ICPR, etc.
-- Journal Reviewer: ISPRS P\&RS, TGRS, Inf. Fusion, JSTARS, EAAI, Neurocomputing, etc.
+- Journal Reviewer: ISPRS P&amp;RS, TGRS, Inf. Fusion, JSTARS, EAAI, Neurocomputing, etc.
 
 # 🎯 Hobbies
 - 🍳 Cooking and exploring different cuisines
