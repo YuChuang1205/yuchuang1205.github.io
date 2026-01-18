@@ -106,7 +106,7 @@ My research interest includes neural machine translation and computer vision. I 
       We propose MIND, a multi-rationale integrated discriminative reasoning framework that enhances multi-modal large models through structured rationale integration and hard negative discrimination.
     </p>
     <p>
-      <a href="https://arxiv.org/abs/2512.05530">Paper</a>
+      <a href="https://arxiv.org/abs/2512.05530">Paper</a> |
       <!-- | <a href="https://mind-project.github.io/">Project</a> -->
       <a href="https://github.com/xxx/MIND">Code</a>
     </p>
@@ -127,7 +127,7 @@ My research interest includes neural machine translation and computer vision. I 
       We rethink infrared small target detection from a foundation-model perspective and propose an efficient, foundation-driven paradigm that improves generalization and deployment efficiency across diverse infrared scenarios.
     </p>
     <p>
-      <a href="https://arxiv.org/abs/2512.05511">Paper</a>
+      <a href="https://arxiv.org/abs/2512.05511">Paper</a> |
       <!-- | <a href="https://your-project-page.github.io/">Project</a> -->
       <a href="https://github.com/your-repo">Code</a>
     </p>
@@ -171,6 +171,27 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://arxiv.org/abs/2412.11161">Paper</a> |
       <a href="https://github.com/your-repo/knowledge-guided-cross-spectral-matching">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+<div class="pub-item">
+  <img src="../images/MSDA-Net_main.png">
+  <div class="pub-content">
+    <h3>Multi-Scale Direction-Aware Network for Infrared Small Target Detection</h3>
+    <p>
+      Jinmiao Zhao, Zelin Shi*, <strong><u>Chuang Yu</u></strong>, Yunpeng Liu, Xinyi Ying, Yimian Dai<br>
+
+      <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Geoscience and Remote Sensing, 2025 (Accepted)</strong>
+    </p>
+    <p class="pub-desc">
+      We propose a multi-scale direction-aware network that explicitly models directional and scale-sensitive cues, significantly enhancing infrared small target detection performance under complex backgrounds.
+    </p>
+    <p>
+      <a href="https://doi.org/xxxx.xxxx/TGRS.2025.xxxxx">Paper</a> |
+      <a href="https://github.com/your-repo/MSDAN-IRSTD">Code</a>
+      <span style="margin-left:8px; font-weight:600;">🔥 100+⭐</span>
     </p>
   </div>
 </div>
@@ -239,26 +260,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
-<div class="pub-item">
-  <img src="../images/MSDA-Net_main.png">
-  <div class="pub-content">
-    <h3>Multi-Scale Direction-Aware Network for Infrared Small Target Detection</h3>
-    <p>
-      Jinmiao Zhao, Zelin Shi*, <strong><u>Chuang Yu</u></strong>, Yunpeng Liu, Xinyi Ying, Yimian Dai<br>
 
-      <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Geoscience and Remote Sensing, 2025 (Accepted)</strong>
-    </p>
-    <p class="pub-desc">
-      We propose a multi-scale direction-aware network that explicitly models directional and scale-sensitive cues, significantly enhancing infrared small target detection performance under complex backgrounds.
-    </p>
-    <p>
-      <a href="https://doi.org/xxxx.xxxx/TGRS.2025.xxxxx">Paper</a> |
-      <a href="https://github.com/your-repo/MSDAN-IRSTD">Code</a>
-      <span style="margin-left:8px; font-weight:600;">🔥 100+⭐</span>
-    </p>
-  </div>
-</div>
-<hr class="pub-divider">
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
