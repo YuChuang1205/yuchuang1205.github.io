@@ -310,7 +310,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024* The 2nd prize in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 2. (Team leader)
 - *2024* The 3rd prize of the First "Shensi Cup" - Urban Lifeline·AI Problem Solving Challenge. (Team leader)
 - *2024* The 3rd place of Marine Farms Segmentation in High-Resolution SAR Images in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation (Team leader)
-- *2024 and 2022* <strong>National Scholarship (Top 1%)</strong> 
+- *2024 and 2022* <strong>National Scholarship (Top 1%)</strong>
+- *2023* Outstanding Graduate Student Award of Shenyang Institute of Automation, CAS (Top 1%)
+- *2023 and 2024* <strong>Pacemaker to Merit Student of the University of Chinese Academy of Sciences (Top 1%)</strong>
+- *2021, 2023 and 2024* First Class Academic Scholarship of Shenyang Institute of Automation, CAS (Top 10%)
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
