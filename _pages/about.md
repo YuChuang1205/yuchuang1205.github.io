@@ -321,9 +321,23 @@ My research interest includes neural machine translation and computer vision. I 
 - **1st Prize**, PRCV 2024 Wide-area Infrared Small Target Detection Challenge ([news report](URL))
 - **Outstanding Communist Youth League Member of CAS**（中国科学院优秀共青团员） ([news report](URL))
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
+
+# ⚡ Services:
+- Journal/Conference Reviewer
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+- Engineering Applications of Artificial Intelligence (EAAI)
+- Knowledge-Based Systems (KBS)
+- Computers and Electronics in Agriculture (CEA)
+- Expert Systems With Applications (ESWA)
+- Infrared Physics & Technology (IPT)
+- Neurocomputing
+- Signal Processing
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+- International Conference on Computer Vision (ICCV)
+- International Conference on Pattern Recognition (ICPR)
