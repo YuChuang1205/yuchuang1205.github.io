@@ -303,7 +303,7 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 # 🏆 Honors and Awards
-- *2025* <strong>CAS President Award – Special Prize 中国科学院院长特别奖 (Top 0.1%)</strong>
+- *2025* <strong>CAS President Award – Special Prize (中国科学院院长特别奖) (Top 0.1%)</strong>
 - *2024* <strong>The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application (Team leader)</strong>
 - *2024* <strong>The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge (Team leader)</strong>
 - *2024* The 2nd prize in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1. (Team leader)
@@ -319,7 +319,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **CAS President Award – Special Prize**（中国科学院院长特别奖） ([news report](URL))
 - **1st Place**, Water Body Extraction, *ISPRS TC I Contest 2024* ([news report](URL))
 - **1st Prize**, PRCV 2024 Wide-area Infrared Small Target Detection Challenge ([news report](URL))
-- **Outstanding Communist Youth League Member of CAS**（中国科学院优秀共青团员） ([news report](URL))
+- **Outstanding Communist Youth League Member of CAS** ([news report](URL))
 
 <!--
 # 💻 Internships
