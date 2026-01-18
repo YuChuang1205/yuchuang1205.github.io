@@ -156,6 +156,47 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
+<div class="pub-item">
+  <img src="../images/KGL-Net.png">
+  <div class="pub-content">
+    <h3>Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Jinmiao Zhao, Xiangyu Yue*<br>
+
+      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2024</strong>
+    </p>
+    <p class="pub-desc">
+      We present a knowledge-guided learning framework that explicitly models the “why” and “how” of cross-spectral discrepancies, enabling robust and discriminative patch matching across heterogeneous spectral domains.
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2412.11161">Paper</a> |
+      <a href="https://github.com/your-repo/knowledge-guided-cross-spectral-matching">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+<div class="pub-item">
+  <img src="../images/RRL-Net.png">
+  <div class="pub-content">
+    <h3>Relational Representation Learning Network for Cross-Spectral Image Patch Matching</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Jinmiao Zhao, Dou Quan, Xiangyu Yue*<br>
+
+      <strong style="display:inline-block; margin:6px 0;">Information Fusion, 2024 (Accepted)</strong>
+    </p>
+    <p class="pub-desc">
+      We propose a relational representation learning network that explicitly models cross-spectral relationships, enabling robust and discriminative image patch matching across heterogeneous spectral modalities.
+    </p>
+    <p>
+      <a href="https://doi.org/xxxx.xxxx/xxxxx">Paper</a> |
+      <a href="https://github.com/your-repo/RRLN-CrossSpectral">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
