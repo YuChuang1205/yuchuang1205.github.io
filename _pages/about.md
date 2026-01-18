@@ -198,6 +198,27 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 <div class="pub-item">
+  <img src="../images/FEST-Net_main.png">
+  <div class="pub-content">
+    <h3>Towards Robust Infrared Small Target Detection: A Feature-Enhanced and Sensitivity-Tunable Framework</h3>
+    <p>
+      Jinmiao Zhao, Zelin Shi*, <strong><u>Chuang Yu</u></strong>, Yunpeng Liu, Yimain Dai<br>
+
+      <strong style="display:inline-block; margin:6px 0;">Knowledge-Based Systems, 2025 (Accepted)</strong>
+    </p>
+    <p class="pub-desc">
+      We propose a feature-enhanced and sensitivity-tunable framework that improves robustness for infrared small target detection by adaptively balancing feature representation and detection sensitivity under complex backgrounds.
+    </p>
+    <p>
+      <a href="https://doi.org/xxxx.xxxx/KBS.2025.xxxxx">Paper</a> |
+      <a href="https://github.com/your-repo/FEST-IRSTD">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+
+<div class="pub-item">
   <img src="../images/RRL-Net_main.png">
   <div class="pub-content">
     <h3>Relational Representation Learning Network for Cross-Spectral Image Patch Matching</h3>
