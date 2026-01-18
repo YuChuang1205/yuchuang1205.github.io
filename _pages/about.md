@@ -329,7 +329,9 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # ⚡ Academic Service:
-Journal/Conference Reviewer
+- Conference Reviewer: CVPR, ICCV, ICPR
+- Journal Reviewer: ISPRS P&RS, TGRS, Inf. Fusion, JSTARS, EAAI, Neurocomputing, etc
+<!--
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
@@ -343,6 +345,7 @@ Journal/Conference Reviewer
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 - International Conference on Computer Vision (ICCV)
 - International Conference on Pattern Recognition (ICPR)
+-->
 
 # 🎯 Hobbies
 - 🍳 Cooking and exploring different cuisines
