@@ -94,7 +94,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 <div class="pub-item">
-  <img src="../images/paper_teasers/mind.gif">
+  <img src="../images/MIND_main.png">
   <div class="pub-content">
     <h3>MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models</h3>
     <p>
