@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 -*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000; font-weight:600;">CAS President Award – Special Prize</span>.<br>
 -*2024.12*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion**.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000; font-weight:600;">1st Place</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
--*2024.11*: &nbsp;🌸🌸 Honored with the **National Scholarship for PHD Students**.<br>
+-*2024.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship for PHD Students**</span>.<br>
 -*2024.05*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000; font-weight:600;">1st prize</span> in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*.<br>
 -*2023.10*: &nbsp;🎉🎉 One paper ([**FIL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TIP**.<br>
 -*2023.06*: &nbsp;🎉🎉 One paper ([**EFR-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS**.<br>
