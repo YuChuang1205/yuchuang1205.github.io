@@ -239,8 +239,8 @@ My research interest includes neural machine translation and computer vision. I 
       We propose a relational representation learning network that explicitly models cross-spectral relationships, enabling robust and discriminative image patch matching across heterogeneous spectral modalities.
     </p>
     <p>
-      <a href="https://doi.org/xxxx.xxxx/xxxxx">Paper</a> |
-      <a href="https://github.com/your-repo/RRLN-CrossSpectral">Code</a>
+      <a href="https://arxiv.org/abs/2403.11751">Paper</a> |
+      <a href="https://github.com/YuChuang1205/RRL-Net">Code</a>
     </p>
   </div>
 </div>
@@ -259,10 +259,10 @@ My research interest includes neural machine translation and computer vision. I 
       We propose a feature interaction learning network that explicitly models inter-feature relationships across heterogeneous spectra, significantly improving robustness and discriminability for cross-spectral image patch matching.
     </p>
     <p>
-      <a href="https://doi.org/xxxx.xxxx/TIP.2023.xxxxx">Paper</a> |
-      <a href="https://your-dataset-link/data1">Data1</a> |
-      <a href="https://your-dataset-link/data2">Data2</a> |
-      <a href="https://github.com/your-repo/FILN-CrossSpectral">Code</a>
+      <a href="https://ieeexplore.ieee.org/document/10251126">Paper</a> |
+      <a href="https://github.com/YuChuang1205/VIS-LWIR-patch-dataset">Data1</a> |
+      <a href="https://github.com/YuChuang1205/SEN1-2-patch-dataset">Data2</a> |
+      <a href="https://github.com/YuChuang1205/RRL-Net">Code</a>
     </p>
   </div>
 </div>
@@ -281,9 +281,9 @@ My research interest includes neural machine translation and computer vision. I 
       We propose an efficient feature relation learning network that models cross-spectral feature interactions with low computational overhead, achieving accurate and scalable image patch matching across heterogeneous spectral modalities.
     </p>
     <p>
-      <a href="https://doi.org/xxxx.xxxx/TGRS.2023.xxxxx">Paper</a> |
-      <a href="https://your-dataset-link/data">Data</a> |
-      <a href="https://github.com/your-repo/EFRLN-CrossSpectral">Code</a>
+      <a href="https://ieeexplore.ieee.org/document/10164118">Paper</a> |
+      <a href="https://github.com/YuChuang1205/OS-patch-dataset">Data</a> |
+      <a href="https://github.com/YuChuang1205/RRL-Net">Code</a>
     </p>
   </div>
 </div>
@@ -302,9 +302,9 @@ My research interest includes neural machine translation and computer vision. I 
       We propose a multi-branch feature difference learning network that explicitly captures cross-spectral discrepancies via complementary branches, enabling robust and discriminative image patch matching across heterogeneous spectral domains.
     </p>
     <p>
-      <a href="https://doi.org/xxxx.xxxx/TGRS.2022.xxxxx">Paper</a> |
-      <a href="https://github.com/your-repo/MBFDLN-CrossSpectral">Code1</a> |
-      <a href="https://github.com/your-repo/MBFDLN-CrossSpectral-v2">Code2</a>
+      <a href="https://ieeexplore.ieee.org/document/9777946">Paper</a> |
+      <a href="https://github.com/YuChuang1205/MFD-Net">Code1</a> |
+      <a href="https://github.com/YuChuang1205/RRL-Net">Code2</a>
     </p>
   </div>
 </div>
