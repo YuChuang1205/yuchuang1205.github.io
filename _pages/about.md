@@ -174,7 +174,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">ICCV 2025 (Accepted)</strong>
     </p>
     <p class="pub-desc">
-      We propose a progressive active learning framework that transitions from easy to hard samples for infrared small target detection under single-point supervision, significantly reducing annotation cost while improving detection robustness.
+      Inspired by organisms gradually adapting to their environment and continuously accumulating knowledge, we construct an innovative Progressive Active Learning (PAL) framework, which drives the existing SIRST detection networks progressively and actively recognizes and learns harder samples.
     </p>
     <p>
       <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_From_Easy_to_Hard_Progressive_Active_Learning_Framework_for_Infrared_ICCV_2025_paper.html">Paper</a> |
