@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News 🔥 
 -*2025.12*: &nbsp;🌟🌟 Our new works, [**MIND**](https://arxiv.org/abs/2512.05530) and [**FDEP Framework**](https://arxiv.org/abs/2512.05511), have been released.<br>
--*2025.11*: &nbsp;🎉🎉 Two papers ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net), [**FEST Framework**](https://github.com/YuChuang1205/FEST-Framework)) are accepted by **TGRS** and **KBS**.<br>
+-*2025.11*: &nbsp;🎉🎉 one paper ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net)) are accepted by **TGRS**.<br>
 -*2025.06*: &nbsp;🎉🎉 One paper ([**PAL Framework**](https://github.com/YuChuang1205/PAL)) is accepted to **ICCV 2025**.<br>
 -*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize**</span>.<br>
 -*2024.12*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion**.<br>
