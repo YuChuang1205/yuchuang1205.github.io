@@ -38,17 +38,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News 🔥 
--*2025.12*: &nbsp;🌟🌟 Our new works, **MIND** and **FDEP**, have been released.<br>
--*2025.11*: &nbsp;🎉🎉 Two papers are accepted by **TGRS** and **KBS**.<br>
--*2025.06*: &nbsp;🎉🎉 One paper is accepted to **ICCV 2025**.<br>
+-*2025.12*: &nbsp;🌟🌟 Our new works, [**MIND**](https://arxiv.org/abs/2512.05530) and [**FDEP Framework**](https://arxiv.org/abs/2512.05511), have been released.<br>
+-*2025.11*: &nbsp;🎉🎉 Two papers (MSDA-Net, FEST Framework) are accepted by **TGRS** and **KBS**.<br>
+-*2025.06*: &nbsp;🎉🎉 One paper (PAL Framework) is accepted to **ICCV 2025**.<br>
 -*2025.05*: &nbsp;🌸🌸 Honored with the **CAS President Award – Special Prize**.<br>
--*2024.12*: &nbsp;🎉🎉 One paper is accepted to **Information Fusion**.<br>
+-*2024.12*: &nbsp;🎉🎉 One paper (RRL-Net) is accepted to **Information Fusion**.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded **1st Place** in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*, serving as **Team Leader**.<br>
+-*2024.11*: &nbsp;🌸🌸 Honored with the **National Scholarship for PHD Students**.<br>
 -*2024.05*: &nbsp;🥇🥇 Awarded **1st prize** in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*, serving as **Team Leader**.<br>
--*2024.05*: &nbsp;🌸🌸 Honored with the **Outstanding Communist Youth League Member of CAS**.<br>
--*2023.10*: &nbsp;🎉🎉 One paper is accepted to **TIP**.<br>
--*2023.06*: &nbsp;🎉🎉 One paper is accepted to **TGRS**.<br>
--*2022.11*: &nbsp;🎉🎉 One paper is accepted to **TGRS**.<br>
+-*2023.10*: &nbsp;🎉🎉 One paper (FIL-Net) is accepted to **TIP**.<br>
+-*2023.06*: &nbsp;🎉🎉 One paper (EFR-Net) is accepted to **TGRS**.<br>
+-*2022.11*: &nbsp;🌸🌸 Honored with the **National Scholarship for PHD Students**.<br>
+-*2022.11*: &nbsp;🎉🎉 One paper (MFD-Net) is accepted to **TGRS**.<br>
 
 # 📝 Publications 
 
