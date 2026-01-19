@@ -311,15 +311,15 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 # 🏆 Honors and Awards
-- *2025* <strong>CAS President Award – Special Prize (中国科学院院长特别奖) (Top 0.1%)</strong>  ([news report](URL))
-- *2024* <strong>The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application (Team leader)</strong> ([news report](URL))
-- *2024* <strong>The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge (Team leader)</strong> ([news report](URL))
+- *2025* <strong>CAS President Award – Special Prize (中国科学院院长特别奖) (Top 0.1%)</strong>  ([news report](http://www.sia.cas.cn/xwzx/zhxw/202506/t20250624_7874445.html))
+- *2024* <strong>The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application (Team leader)</strong> ([news report](http://www.sia.cas.cn/xwzx/kydt/202405/t20240527_7173244.html))
+- *2024* <strong>The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge (Team leader)</strong> ([news report](http://www.sia.cas.cn/xwzx/kydt/202411/t20241113_7438837.html))
 - *2024* The 2nd prize in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1. (Team leader)
 - *2024* The 2nd prize in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 2. (Team leader)
 - *2024* The 3rd prize of the First "Shensi Cup" - Urban Lifeline·AI Problem Solving Challenge. (Team leader)
 - *2024* The 3rd place of Marine Farms Segmentation in High-Resolution SAR Images in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation (Team leader)
 - *2024 and 2022* <strong>National Scholarship (Top 1%)</strong>
-- *2024* <strong>Outstanding Communist Youth League Member of CAS (Top 0.1%) </strong>  ([news report](URL))
+- *2024* <strong>Outstanding Communist Youth League Member of CAS (Top 0.1%) </strong>  ([news report](http://www.sia.cas.cn/dj/gzdt/202405/t20240509_7156313.html))
 - *2023* Outstanding Graduate Student Award of Shenyang Institute of Automation, CAS (Top 1%)
 - *2023 and 2024* <strong>Pacemaker to Merit Student of the University of Chinese Academy of Sciences (Top 1%)</strong>
 - *2021, 2023 and 2024* First Class Academic Scholarship of Shenyang Institute of Automation, CAS (Top 10%)
