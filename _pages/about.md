@@ -28,7 +28,7 @@ I am a PHD student in the SIA-CAS's Master-Doctor combined program, supervised b
 Since October 2024, I have been honored to be a Research Assistant at [**CUHK-MMLab**](https://mmlab.ie.cuhk.edu.hk/people.html), under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
 
 
-I won the CAS President Award - Special Prize (<span style="color:#8B0000;">**中国科学院院长特别奖**</span>) in 2025 and was twice awarded the **National Scholarship for PHD Students** in 2022 and 2024.
+I won the CAS President Award - Special Prize (<span style="color:#8B0000;">**中国科学院院长特别奖**</span>) in 2025 and was twice awarded the **National Scholarship for Ph.D. Students** in 2022 and 2024.
 
 I won **the 1st place** of _Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application_ (Team leader) and **the 1st prize** in the _PRCV2024 Wide-area Infrared Small Target Detection Challenge_ (Team leader).
 
@@ -45,11 +45,11 @@ My research interest includes neural machine translation and computer vision. I 
 -*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize**</span>.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st prize**</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**2nd prize**</span> in the *ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1 and Track2*.<br>
--*2024.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship for PHD Students**</span>.<br>
+-*2024.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship**</span>.<br>
 -*2024.05*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st Place**</span> in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*.<br>
 -*2023.10*: &nbsp;🎉🎉 One paper ([**FIL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TIP 2023**.<br>
 -*2023.06*: &nbsp;🎉🎉 One paper ([**EFR-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2023**.<br>
--*2022.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship for PHD Students**</span>.<br>
+-*2022.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship**</span>.<br>
 -*2022.06*: &nbsp;🎉🎉 One paper ([**MFD-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2022**.<br>
 -*2022.06*: &nbsp;🎉🎉 One paper is accepted to **J-START 2022**.<br>
 -*2022.05*: &nbsp;🎉🎉 two paper ([**MLCL-Net**](https://doi.org/10.1016/j.infrared.2022.104107)) and ([**ALCL-Net**](https://ieeexplore.ieee.org/document/9785618)) is accepted to **IPT 2022** and **GRSL 2022**.<br>
