@@ -40,9 +40,9 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News 🔥 
 -*2025.12*: &nbsp;🌟🌟 Our new works, [**MIND**](https://arxiv.org/abs/2512.05530) and [**FDEP Framework**](https://arxiv.org/abs/2512.05511), have been released.<br>
 -*2025.11*: &nbsp;🎉🎉 one paper ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net)) are accepted by **TGRS 2025**.<br>
+-*2025.09*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion 2025**.<br>
 -*2025.06*: &nbsp;🎉🎉 One paper ([**PAL Framework**](https://github.com/YuChuang1205/PAL)) is accepted to **ICCV 2025**.<br>
 -*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize**</span>.<br>
--*2024.12*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion**.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st Place**</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
 -*2024.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship for PHD Students**</span>.<br>
 -*2024.05*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st prize**</span> in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*.<br>
@@ -51,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 -*2022.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship for PHD Students**</span>.<br>
 -*2022.11*: &nbsp;🎉🎉 One paper ([**MFD-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2022**.<br>
 
-# 📝 Publications 
+# 📝 Publications (Some representative papers)
 
 -----
 <style>
