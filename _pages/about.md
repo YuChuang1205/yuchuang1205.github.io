@@ -153,7 +153,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
-      We rethink infrared small target detection from a foundation-model perspective and propose an efficient, foundation-driven paradigm that improves generalization and deployment efficiency across diverse infrared scenarios.
+      we systematically introduce the frozen representations from VFMs into the SIRST task for the first time and propose a Foundation-Driven Efficient Paradigm (FDEP), which can seamlessly adapt to existing encoder-decoder-based methods and significantly improve accuracy without additional inference overhead.
     </p>
     <p>
       <a href="https://arxiv.org/abs/2512.05511">Paper</a> |
