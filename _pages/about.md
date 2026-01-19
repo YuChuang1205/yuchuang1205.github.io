@@ -178,7 +178,7 @@ My research interest includes neural machine translation and computer vision. I 
     </p>
     <p>
       <a href="https://arxiv.org/abs/2412.11161">Paper</a> |
-      <a href="https://github.com/your-repo/knowledge-guided-cross-spectral-matching">Code</a>
+      <a href="https://github.com/YuChuang1205/KGL-Net">Code</a>
     </p>
   </div>
 </div>
@@ -197,8 +197,8 @@ My research interest includes neural machine translation and computer vision. I 
       We propose a multi-scale direction-aware network that explicitly models directional and scale-sensitive cues, significantly enhancing infrared small target detection performance under complex backgrounds.
     </p>
     <p>
-      <a href="https://doi.org/xxxx.xxxx/TGRS.2025.xxxxx">Paper</a> |
-      <a href="https://github.com/your-repo/MSDAN-IRSTD">Code</a>
+      <a href="https://arxiv.org/abs/2406.02037">Paper</a> |
+      <a href="https://github.com/YuChuang1205/MSDA-Net">Code</a>
       <span style="margin-left:8px; font-weight:600;">🔥 Github 100+⭐</span>
     </p>
   </div>
@@ -218,8 +218,8 @@ My research interest includes neural machine translation and computer vision. I 
       We propose a feature-enhanced and sensitivity-tunable framework that improves robustness for infrared small target detection by adaptively balancing feature representation and detection sensitivity under complex backgrounds.
     </p>
     <p>
-      <a href="https://doi.org/xxxx.xxxx/KBS.2025.xxxxx">Paper</a> |
-      <a href="https://github.com/your-repo/FEST-IRSTD">Code</a>
+      <a href="https://arxiv.org/abs/2407.20090">Paper</a> |
+      <a href="https://github.com/YuChuang1205/FEST-Framework">Code</a>
     </p>
   </div>
 </div>
