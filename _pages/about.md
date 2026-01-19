@@ -195,7 +195,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
-      We present a knowledge-guided learning framework that explicitly models the “why” and “how” of cross-spectral discrepancies, enabling robust and discriminative patch matching across heterogeneous spectral domains.
+      We make the first attempt to explore a stable and efficient bridge between descriptor learning and metric learning, and construct a knowledge-guided learning network (KGLNet), which achieves amazing performance improvements while abandoning complex network structures.
     </p>
     <p>
       <a href="https://arxiv.org/abs/2412.11161">Paper</a> |
