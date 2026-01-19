@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 <h1 style="border-bottom: none;">Welcome to my website! 😆😆😆</h1>
@@ -23,7 +30,7 @@ Since October 2024, I have been honored to be a visiting Ph.D at [CUHK-MMLab](ht
 
 I won the CAS President Award - Special Prize (**中国科学院院长特别奖**, Top 0.1%) in 2025 and was twice awarded the **National Scholarship for PHD Students** in 2022 and 2024.
 
-It is currently being updated 🛠️🛠️🛠️. 
+I won **the 1st place** of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application (Team leader) and **the 1st prize** in the PRCV2024 Wide-area Infrared Small Target Detection Challenge (Team leader).
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
