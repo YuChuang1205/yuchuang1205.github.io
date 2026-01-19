@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 -*2025.12*: &nbsp;🎉🎉 One paper is accepted to **ICCV 2025**.<br>
 -*2025.05*: &nbsp;🎉🎉 Honored with the **CAS President Award – Special Prize**.<br>
 -*2024.12*: &nbsp;🎉🎉 One paper is accepted to **Information Fusion**.<br>
--*2024.11*: &nbsp;🎉🎉 Awarded **1st Place** in the * PRCV2024 Wide-area Infrared Small Target Detection Challenge, serving as **Team Leader**.<br>
+-*2024.11*: &nbsp;🎉🎉 Awarded **1st Place** in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*, serving as **Team Leader**.<br>
 -*2024.05*: &nbsp;🎉🎉 Awarded **1st Place** in the *ISPRS TC I Contest 2024* (Water Body Extraction from High-resolution and Multi-modal Optical Images), serving as **Team Leader**.<br>
 -*2024.05*: &nbsp;🎉🎉 Honored with the **Outstanding Communist Youth League Member of CAS**.<br>
 -*2023.10*: &nbsp;🎉🎉 One paper is accepted to **TIP**.<br>
