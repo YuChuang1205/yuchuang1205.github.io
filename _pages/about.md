@@ -153,7 +153,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
-      we systematically introduce the frozen representations from VFMs into the SIRST task for the first time and propose a Foundation-Driven Efficient Paradigm (FDEP), which can seamlessly adapt to existing encoder-decoder-based methods and significantly improve accuracy without additional inference overhead.
+      We systematically introduce the frozen representations from VFMs into the SIRST task for the first time and propose a Foundation-Driven Efficient Paradigm (FDEP), which can seamlessly adapt to existing encoder-decoder-based methods and significantly improve accuracy without additional inference overhead.
     </p>
     <p>
       <a href="https://arxiv.org/abs/2512.05511">Paper</a> |
