@@ -28,7 +28,7 @@ I am a PHD student in the University of the Chinese Academy of Sciences's Master
 Since October 2024, I have been honored to be a visiting Ph.D at [**CUHK-MMLab**](https://mmlab.ie.cuhk.edu.hk/people.html), under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
 
 
-I won the CAS President Award - Special Prize (**中国科学院院长特别奖**, Top 0.1%) in 2025 and was twice awarded the **National Scholarship for PHD Students** in 2022 and 2024.
+I won the CAS President Award - Special Prize (<span style="color:#8B0000; font-weight:600;">中国科学院院长特别奖</span>, Top 0.1%) in 2025 and was twice awarded the **National Scholarship for PHD Students** in 2022 and 2024.
 
 I won **the 1st place** of _Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application_ (Team leader) and **the 1st prize** in the _PRCV2024 Wide-area Infrared Small Target Detection Challenge_ (Team leader).
 
