@@ -51,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 -*2022.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship for PHD Students**</span>.<br>
 -*2022.11*: &nbsp;🎉🎉 One paper ([**MFD-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2022**.<br>
 
-<span id="-publications"></span>
+<span class='anchor' id='-publications'></span>
 # 📝 Publications (Some representative papers)
 
 -----
