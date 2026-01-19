@@ -137,7 +137,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://arxiv.org/abs/2512.05511">Paper</a> |
       <!-- | <a href="https://your-project-page.github.io/">Project</a> -->
-      <a href="https://github.com/your-repo">Code</a>
+      <a href="https://github.com/YuChuang1205/FDEP-Framework">Code</a>
     </p>
   </div>
 </div>
@@ -156,8 +156,8 @@ My research interest includes neural machine translation and computer vision. I 
       We propose a progressive active learning framework that transitions from easy to hard samples for infrared small target detection under single-point supervision, significantly reducing annotation cost while improving detection robustness.
     </p>
     <p>
-      <a href="https://arxiv.org/abs/xxxx.xxxxx">Paper</a> |
-      <a href="https://github.com/your-repo/PAL">Code</a>
+      <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_From_Easy_to_Hard_Progressive_Active_Learning_Framework_for_Infrared_ICCV_2025_paper.html">Paper</a> |
+      <a href="https://github.com/YuChuang1205/PAL">Code</a>
       <span style="margin-left:8px; font-weight:600;">🔥 Github 200+⭐</span>
     </p>
   </div>
