@@ -132,7 +132,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
-      We propose MIND, a multi-rationale integrated discriminative reasoning framework that enhances multi-modal large models through structured rationale integration and hard negative discrimination.
+      we propose a Multi-rationale INtegrated Discriminative (MIND) reasoning framework, which is designed to endow MLLMs with human-like cognitive abilities of “Understand → Rethink → Correct”, and achieves a paradigm evolution from passive imitation-based reasoning to active discriminative reasoning.
     </p>
     <p>
       <a href="https://arxiv.org/abs/2512.05530">Paper</a> |
