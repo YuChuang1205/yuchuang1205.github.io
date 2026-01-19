@@ -2,7 +2,6 @@
 permalink: /
 title: "Welcome to YuChuang's homepage!"
 excerpt: "Homepage"
-show_title: true
 author_profile: true
 redirect_from:
   - /about/
@@ -11,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Welcome to my website! 😆😆😆**
+<h1>Welcome to my website! 😆😆😆</h1>
 
 I am now working on Multi-image/video understanding and reasoning, Infrared small target detection, and Multimodal image registration. If you are seeking any form of **academic cooperation**, please feel free to email me at [yuchuang@sia.cn](yuchuang@sia.cn) / [yuchuang1205@163.com](yuchuang1205@163.com). 
 
