@@ -2,6 +2,7 @@
 permalink: /
 title: "Welcome to YuChuang's homepage!"
 excerpt: "Homepage"
+show_title: true
 author_profile: true
 redirect_from:
   - /about/
