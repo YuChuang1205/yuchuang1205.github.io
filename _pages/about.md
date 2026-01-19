@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News 🔥 
 -*2025.12*: &nbsp;🌟🌟 Our new works, [**MIND**](https://arxiv.org/abs/2512.05530) and [**FDEP Framework**](https://arxiv.org/abs/2512.05511), have been released.<br>
--*2025.11*: &nbsp;🎉🎉 one paper ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net)) are accepted by **TGRS 2025**.<br>
+-*2025.11*: &nbsp;🎉🎉 One paper ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net)) is accepted by **TGRS 2025**.<br>
 -*2025.09*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion 2025**.<br>
 -*2025.06*: &nbsp;🎉🎉 One paper ([**PAL Framework**](https://github.com/YuChuang1205/PAL)) is accepted to **ICCV 2025**.<br>
 -*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize**</span>.<br>
@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 -*2022.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship**</span>.<br>
 -*2022.06*: &nbsp;🎉🎉 One paper ([**MFD-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2022**.<br>
 -*2022.06*: &nbsp;🎉🎉 One paper is accepted to **J-START 2022**.<br>
--*2022.05*: &nbsp;🎉🎉 two paper ([**MLCL-Net**](https://doi.org/10.1016/j.infrared.2022.104107)) and ([**ALCL-Net**](https://ieeexplore.ieee.org/document/9785618)) is accepted to **IPT 2022** and **GRSL 2022**.<br>
+-*2022.05*: &nbsp;🎉🎉 Two paper ([**MLCL-Net**](https://doi.org/10.1016/j.infrared.2022.104107)) and ([**ALCL-Net**](https://ieeexplore.ieee.org/document/9785618)) is accepted to **IPT 2022** and **GRSL 2022**.<br>
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications (Some representative papers)
