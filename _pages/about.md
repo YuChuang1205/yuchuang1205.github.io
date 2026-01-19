@@ -19,7 +19,7 @@ redirect_from:
 
 <h1 style="border-bottom: none;">Welcome to my website! 😆😆😆</h1>
 
-I am now working on Multi-image/video understanding and reasoning, Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000; font-weight:600;">academic cooperation (学术合作)</span>, please feel free to email me at [**yuchuang@sia.cn**](yuchuang@sia.cn) / [**yuchuang1205@163.com**](yuchuang1205@163.com). 
+I am now working on Multi-image/video understanding and reasoning, Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000;">**academic cooperation (学术合作)**</span>, please feel free to email me at [**yuchuang@sia.cn**](yuchuang@sia.cn) / [**yuchuang1205@163.com**](yuchuang1205@163.com). 
 
 
 I am a PHD student in the SIA-CAS's Master-Doctor combined program, supervised by Prof. Yunpeng Liu.
@@ -28,7 +28,7 @@ I am a PHD student in the SIA-CAS's Master-Doctor combined program, supervised b
 Since October 2024, I have been honored to be a visiting Ph.D at [**CUHK-MMLab**](https://mmlab.ie.cuhk.edu.hk/people.html), under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
 
 
-I won the CAS President Award - Special Prize (<span style="color:#8B0000; font-weight:600;">中国科学院院长特别奖</span>) in 2025 and was twice awarded the **National Scholarship for PHD Students** in 2022 and 2024.
+I won the CAS President Award - Special Prize (<span style="color:#8B0000;">**中国科学院院长特别奖**</span>) in 2025 and was twice awarded the **National Scholarship for PHD Students** in 2022 and 2024.
 
 I won **the 1st place** of _Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application_ (Team leader) and **the 1st prize** in the _PRCV2024 Wide-area Infrared Small Target Detection Challenge_ (Team leader).
 
@@ -41,14 +41,14 @@ My research interest includes neural machine translation and computer vision. I 
 -*2025.12*: &nbsp;🌟🌟 Our new works, [**MIND**](https://arxiv.org/abs/2512.05530) and [**FDEP Framework**](https://arxiv.org/abs/2512.05511), have been released.<br>
 -*2025.11*: &nbsp;🎉🎉 Two papers ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net), [**FEST Framework**](https://github.com/YuChuang1205/FEST-Framework)) are accepted by **TGRS** and **KBS**.<br>
 -*2025.06*: &nbsp;🎉🎉 One paper ([**PAL Framework**](https://github.com/YuChuang1205/PAL)) is accepted to **ICCV 2025**.<br>
--*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000; font-weight:600;">CAS President Award – Special Prize</span>.<br>
+-*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize**</span>.<br>
 -*2024.12*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion**.<br>
--*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000; font-weight:600;">1st Place</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
+-*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st Place**</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
 -*2024.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship for PHD Students**</span>.<br>
--*2024.05*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000; font-weight:600;">1st prize</span> in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*.<br>
+-*2024.05*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st prize**</span> in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*.<br>
 -*2023.10*: &nbsp;🎉🎉 One paper ([**FIL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TIP**.<br>
 -*2023.06*: &nbsp;🎉🎉 One paper ([**EFR-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS**.<br>
--*2022.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000; font-weight:600;">National Scholarship for PHD Students</span>.<br>
+-*2022.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship for PHD Students**</span>.<br>
 -*2022.11*: &nbsp;🎉🎉 One paper ([**MFD-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS**.<br>
 
 # 📝 Publications 
