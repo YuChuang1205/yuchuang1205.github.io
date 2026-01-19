@@ -116,7 +116,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://arxiv.org/abs/2512.05530">Paper</a> |
       <!-- | <a href="https://mind-project.github.io/">Project</a> -->
-      <a href="https://github.com/xxx/MIND">Code</a>
+      <a href="https://github.com/YuChuang1205/MIND">Code</a>
     </p>
   </div>
 </div>
