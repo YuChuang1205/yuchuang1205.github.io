@@ -43,9 +43,9 @@ My research interest includes neural machine translation and computer vision. I 
 -*2025.06*: &nbsp;🎉🎉 One paper (PAL Framework) is accepted to **ICCV 2025**.<br>
 -*2025.05*: &nbsp;🌸🌸 Honored with the **CAS President Award – Special Prize**.<br>
 -*2024.12*: &nbsp;🎉🎉 One paper (RRL-Net) is accepted to **Information Fusion**.<br>
--*2024.11*: &nbsp;🥇🥇 Awarded **1st Place** in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*, serving as **Team Leader**.<br>
+-*2024.11*: &nbsp;🥇🥇 Awarded **1st Place** in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
 -*2024.11*: &nbsp;🌸🌸 Honored with the **National Scholarship for PHD Students**.<br>
--*2024.05*: &nbsp;🥇🥇 Awarded **1st prize** in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*, serving as **Team Leader**.<br>
+-*2024.05*: &nbsp;🥇🥇 Awarded **1st prize** in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*.<br>
 -*2023.10*: &nbsp;🎉🎉 One paper (FIL-Net) is accepted to **TIP**.<br>
 -*2023.06*: &nbsp;🎉🎉 One paper (EFR-Net) is accepted to **TGRS**.<br>
 -*2022.11*: &nbsp;🌸🌸 Honored with the **National Scholarship for PHD Students**.<br>
