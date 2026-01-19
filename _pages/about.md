@@ -38,10 +38,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News 🔥 
--*2025.12*: &nbsp;🎉🎉 Our new works, **MIND** and **FDEP**, have been released. 
--*2025.11*: &nbsp;🎉🎉 Two papers are accepted by **TGRS** and **KBS**.
--*2025.12*: &nbsp;🎉🎉 One paper is accepted to **ICCV 2025**.
--*2025.05*: &nbsp;🎉🎉 Honored with the **CAS President Award – Special Prize**.
+-----
+-*2025.12*: &nbsp;🎉🎉 Our new works, **MIND** and **FDEP**, have been released.<br>
+-*2025.11*: &nbsp;🎉🎉 Two papers are accepted by **TGRS** and **KBS**.<br>
+-*2025.12*: &nbsp;🎉🎉 One paper is accepted to **ICCV 2025**.<br>
+-*2025.05*: &nbsp;🎉🎉 Honored with the **CAS President Award – Special Prize**.<br>
 
 <!--
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
