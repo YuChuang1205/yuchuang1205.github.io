@@ -18,7 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Welcome to my website!
+Welcome to my website! 😆😆😆
+
+I am now working on Multi-image/video understanding and reasoning, Infrared small target detection, and Multimodal image registration. If you are seeking any form of **academic cooperation**, please feel free to email me at [yuchuang@sia.cn](yuchuang@sia.cn) / [yuchuang1205@163.com](yuchuang1205@163.com). 
+
+I am a PHD student in the University of the Chinese Academy of Sciences's Master-Doctor combined program, supervised by Yunpeng Liu.
+
+Since October 2024, I have been honored to be a visiting Ph.D at [CUHK-MMLab](https://mmlab.ie.cuhk.edu.hk/index.html), under the supervision of Prof. [Xiangyu Yue](https://xyue.io/).
+
+I won the CAS President Award - Special Prize (**中国科学院院长特别奖**, Top 0.1%) in 2025 and was twice awarded the **National Scholarship for PHD Students** in 2022 and 2024.
 
 It is currently being updated 🛠️🛠️🛠️. 
 
