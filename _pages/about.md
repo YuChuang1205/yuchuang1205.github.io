@@ -195,7 +195,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
-      We make the first attempt to explore a stable and efficient bridge between descriptor learning and metric learning, and construct a knowledge-guided learning network (KGLNet), which achieves amazing performance improvements while abandoning complex network structures.
+      We make the first attempt to explore a stable and efficient bridge between descriptor learning and metric learning, and construct a knowledge-guided learning network (KGL-Net), which achieves amazing performance improvements while abandoning complex network structures.
     </p>
     <p>
       <a href="https://arxiv.org/abs/2412.11161">Paper</a> |
@@ -215,7 +215,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Geoscience and Remote Sensing, 2025 (Accepted)</strong>
     </p>
     <p class="pub-desc">
-      We propose a multi-scale direction-aware network that explicitly models directional and scale-sensitive cues, significantly enhancing infrared small target detection performance under complex backgrounds.
+      We propose a multi-scale direction-aware network (MSDA-Net), which is the first attempt to integrate the high-frequency directional features of infrared small targets as domain prior knowledge into neural networks.
     </p>
     <p>
       <a href="https://arxiv.org/abs/2406.02037">Paper</a> |
@@ -236,7 +236,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">Knowledge-Based Systems, 2025 (Accepted)</strong>
     </p>
     <p class="pub-desc">
-      We propose a feature-enhanced and sensitivity-tunable framework that improves robustness for infrared small target detection by adaptively balancing feature representation and detection sensitivity under complex backgrounds.
+      Different from most existing deep learning-based methods that focus on improving network architectures, we propose a feature-enhanced and sensitivitytunable (FEST) framework, which is compatible with existing SIRST detection networks and further enhances their detection performance. 
     </p>
     <p>
       <a href="https://arxiv.org/abs/2407.20090">Paper</a> |
@@ -257,7 +257,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">Information Fusion, 2024 (Accepted)</strong>
     </p>
     <p class="pub-desc">
-      We propose a relational representation learning network that explicitly models cross-spectral relationships, enabling robust and discriminative image patch matching across heterogeneous spectral modalities.
+      We propose an innovative relational representation learning idea that simultaneously focuses on sufficiently mining the intrinsic features of individual image patches and the relations between image patch features. Based on this, we construct a Relational Representation Learning Network (RRL-Net).
     </p>
     <p>
       <a href="https://arxiv.org/abs/2403.11751">Paper</a> |
@@ -277,7 +277,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Image Processing, 2023 (Accepted)</strong>
     </p>
     <p class="pub-desc">
-      We propose a feature interaction learning network that explicitly models inter-feature relationships across heterogeneous spectra, significantly improving robustness and discriminability for cross-spectral image patch matching.
+     We propose a novel two-branch feature interaction learning network (FIL-Net), which can effectively mine common and private features between cross-spectral image patches, and extract richer and deeper feature relations with invariance and discriminability.
     </p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10251126">Paper</a> |
@@ -299,7 +299,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Geoscience and Remote Sensing, 2023 (Accepted)</strong>
     </p>
     <p class="pub-desc">
-      We propose an efficient feature relation learning network that models cross-spectral feature interactions with low computational overhead, achieving accurate and scalable image patch matching across heterogeneous spectral modalities.
+      We construct a novel four-branch efficient feature relation learning network (EFR-Net), which reasonably combines multiple feature relation learning to comprehensively and effectively extract the differential features and consistent features between image patches.
     </p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10164118">Paper</a> |
@@ -320,7 +320,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Geoscience and Remote Sensing, 2022 (Accepted)</strong>
     </p>
     <p class="pub-desc">
-      We propose a multi-branch feature difference learning network that explicitly captures cross-spectral discrepancies via complementary branches, enabling robust and discriminative image patch matching across heterogeneous spectral domains.
+      We propose a novel multibranch feature difference learning network (MFD-Net), which can capture richer and more discriminative feature difference information and achieve significant improvements on matching tasks.
     </p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/9777946">Paper</a> |
