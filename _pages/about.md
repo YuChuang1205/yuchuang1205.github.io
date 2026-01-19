@@ -333,6 +333,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023* Outstanding Graduate Student Award of Shenyang Institute of Automation, CAS (Top 1%)
 - *2023 and 2024* <strong>Pacemaker to Merit Student of the University of Chinese Academy of Sciences (Top 1%)</strong>
 - *2021, 2023 and 2024* First Class Academic Scholarship of Shenyang Institute of Automation, CAS (Top 10%)
+- *2020* Outstanding Graduates (Top 1%)
+- *2019* The 2nd prize of China Collegiate Computing Contest Artificial Intelligence Innovation Contest. (Team leader)
 
 <!--
 # 🚀 Some personal news reports:
@@ -349,7 +351,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # ⚡ Academic Service:
 - Conference Reviewer: CVPR, ICCV, ICPR, etc.
-- Journal Reviewer: TGRS, Inf. Fusion, JSTARS, EAAI, Neurocomputing, etc.  
+- Journal Reviewer: TGRS, Inf. Fusion, KBS, ESWA, EAAI, JSTARS, IPT,  Neurocomputing, etc.  
 
 
 # 🎯 Hobbies
