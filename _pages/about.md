@@ -25,7 +25,7 @@ I am now working on Multi-image/video understanding and reasoning, Infrared smal
 I am a PHD student in the SIA-CAS's Master-Doctor combined program, supervised by Prof. Yunpeng Liu.
 
 
-Since October 2024, I have been honored to be a visiting Ph.D at [**CUHK-MMLab**](https://mmlab.ie.cuhk.edu.hk/people.html), under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
+Since October 2024, I have been honored to be a Research Assistant at [**CUHK-MMLab**](https://mmlab.ie.cuhk.edu.hk/people.html), under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
 
 
 I won the CAS President Award - Special Prize (<span style="color:#8B0000;">**中国科学院院长特别奖**</span>) in 2025 and was twice awarded the **National Scholarship for PHD Students** in 2022 and 2024.
