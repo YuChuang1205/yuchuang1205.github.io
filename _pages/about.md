@@ -49,9 +49,6 @@ My research interest includes neural machine translation and computer vision. I 
 -*2023.10*: &nbsp;🎉🎉 One paper is accepted to **TIP**.<br>
 -*2023.06*: &nbsp;🎉🎉 One paper is accepted to **TGRS**.<br>
 -*2022.11*: &nbsp;🎉🎉 One paper is accepted to **TGRS**.<br>
-<!--
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
---> 
 
 # 📝 Publications 
 
