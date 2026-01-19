@@ -43,8 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 -*2025.09*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion 2025**.<br>
 -*2025.06*: &nbsp;🎉🎉 One paper ([**PAL Framework**](https://github.com/YuChuang1205/PAL)) is accepted to **ICCV 2025**.<br>
 -*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize**</span>.<br>
--*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st prize**</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
--*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**2nd prize**</span> in the *ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1 and Track2*.<br>
+-*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st Prize**</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
+-*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**2nd Prize**</span> in the *ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1 and Track2*.<br>
 -*2024.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship**</span>.<br>
 -*2024.05*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st Place**</span> in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*.<br>
 -*2023.10*: &nbsp;🎉🎉 One paper ([**FIL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TIP 2023**.<br>
