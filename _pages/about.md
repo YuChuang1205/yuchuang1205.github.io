@@ -22,9 +22,9 @@ redirect_from:
 I am now working on Multi-image/video understanding and reasoning, Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000;">**academic cooperation (学术合作)**</span>, please feel free to email me at [**yuchuang@sia.cn**](yuchuang@sia.cn) / [**yuchuang1205@163.com**](yuchuang1205@163.com). 
 
 
+<!--
 I am a PHD student in the SIA-CAS's Master-Doctor combined program, supervised by Prof. Yunpeng Liu.
 
-<!--
 Since October 2024, I have been honored to be a Research Assistant at [**CUHK-MMLab**](https://mmlab.ie.cuhk.edu.hk/people.html), under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
 -->
 I have been honored to be a **Postdoc** at [**CUHK-MMLab**](https://mmlab.ie.cuhk.edu.hk/people.html) around July 2026, under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
@@ -39,6 +39,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News 🔥 
+-*2026.05*: &nbsp;🎉🎉 One paper [**MIND**](https://arxiv.org/abs/2512.05530) is accepted by **ICML 2026**.<br>
+-*2026.04*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**Outstanding Graduates of University of Chinese Academy of Sciences**</span>.<br>
 -*2025.12*: &nbsp;🌟🌟 Our new works, [**MIND**](https://arxiv.org/abs/2512.05530) and [**FDEP Framework**](https://arxiv.org/abs/2512.05511), have been released.<br>
 -*2025.11*: &nbsp;🎉🎉 One paper ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net)) is accepted by **TGRS 2025**.<br>
 -*2025.09*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion 2025**.<br>
