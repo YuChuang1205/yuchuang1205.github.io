@@ -132,7 +132,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <strong><u>Chuang Yu</u></strong>, Jinmiao Zhao, Mingxuan Zhao, Yunpeng Liu*, Xiujun Shu, Yuanhao Feng, Bo Wang, Xiangyu Yue*<br>
 
-      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
+      <strong style="display:inline-block; margin:6px 0;">ICML 2026</strong>
     </p>
     <p class="pub-desc">
       We propose a Multi-rationale INtegrated Discriminative (MIND) reasoning framework, which is designed to endow MLLMs with human-like cognitive abilities of “Understand → Rethink → Correct”, and achieves a paradigm evolution from passive imitation-based reasoning to active discriminative reasoning.
@@ -335,6 +335,7 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 # 🏆 Honors and Awards
+- *2026* Outstanding Graduates of University of Chinese Academy of Sciences (Top 2%)
 - *2025* <strong>CAS President Award – Special Prize (中国科学院院长特别奖) (Top 0.1%)</strong>  ([news report](http://www.sia.cas.cn/xwzx/zhxw/202506/t20250624_7874445.html))
 - *2024* <strong>The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application (Team leader)</strong> ([news report](http://www.sia.cas.cn/xwzx/kydt/202405/t20240527_7173244.html))
 - *2024* <strong>The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge (Team leader)</strong> ([news report](http://www.sia.cas.cn/xwzx/kydt/202411/t20241113_7438837.html))
@@ -364,7 +365,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # ⚡ Academic Service:
-- Conference Reviewer: CVPR, ICCV, ICPR, etc.
+- Conference Reviewer: CVPR, ICCV, ICML, NeurIPS, ECCV ICPR, etc.
 - Journal Reviewer: TGRS, Inf. Fusion, KBS, ESWA, EAAI, JSTARS, IPT,  Neurocomputing, etc.  
 
 
