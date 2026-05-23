@@ -132,7 +132,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <strong><u>Chuang Yu</u></strong>, Jinmiao Zhao, Mingxuan Zhao, Yunpeng Liu*, Xiujun Shu, Yuanhao Feng, Bo Wang, Xiangyu Yue*<br>
 
-      <strong style="display:inline-block; margin:6px 0;">ICML 2026</strong>
+      <strong style="display:inline-block; margin:6px 0;">ICML 2026 (Accepted)</strong>
     </p>
     <p class="pub-desc">
       We propose a Multi-rationale INtegrated Discriminative (MIND) reasoning framework, which is designed to endow MLLMs with human-like cognitive abilities of “Understand → Rethink → Correct”, and achieves a paradigm evolution from passive imitation-based reasoning to active discriminative reasoning.
