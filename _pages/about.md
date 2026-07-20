@@ -146,6 +146,28 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
+
+<div class="pub-item">
+  <img src="../images/KGL-Net_main.png">
+  <div class="pub-content">
+    <h3>Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Jinmiao Zhao, Xiangyu Yue*<br>
+
+      <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Image Processing, 2026 (Accepted)</strong>
+    </p>
+    <p class="pub-desc">
+      We make the first attempt to explore a stable and efficient bridge between descriptor learning and metric learning, and construct a knowledge-guided learning network (KGL-Net), which achieves amazing performance improvements while abandoning complex network structures.
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2412.11161">Paper</a> |
+      <a href="https://github.com/YuChuang1205/KGL-Net">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+
 <div class="pub-item">
   <img src="../images/FDEP_main.png">
   <div class="pub-content">
@@ -188,25 +210,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
-<div class="pub-item">
-  <img src="../images/KGL-Net_main.png">
-  <div class="pub-content">
-    <h3>Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching</h3>
-    <p>
-      <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Jinmiao Zhao, Xiangyu Yue*<br>
 
-      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
-    </p>
-    <p class="pub-desc">
-      We make the first attempt to explore a stable and efficient bridge between descriptor learning and metric learning, and construct a knowledge-guided learning network (KGL-Net), which achieves amazing performance improvements while abandoning complex network structures.
-    </p>
-    <p>
-      <a href="https://arxiv.org/abs/2412.11161">Paper</a> |
-      <a href="https://github.com/YuChuang1205/KGL-Net">Code</a>
-    </p>
-  </div>
-</div>
-<hr class="pub-divider">
 
 <div class="pub-item">
   <img src="../images/MSDA-Net_main.png">
@@ -229,7 +233,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
-<div class="pub-item">
+<!-- <div class="pub-item">
   <img src="../images/FEST_main.png">
   <div class="pub-content">
     <h3>Towards Robust Infrared Small Target Detection: A Feature-Enhanced and Sensitivity-Tunable Framework</h3>
@@ -247,7 +251,7 @@ My research interest includes neural machine translation and computer vision. I 
     </p>
   </div>
 </div>
-<hr class="pub-divider">
+<hr class="pub-divider"> -->
 
 
 <div class="pub-item">
