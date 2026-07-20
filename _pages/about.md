@@ -154,7 +154,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class="pub-content">
     <h3>Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching</h3>
     <p>
-      <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Jinmiao Zhao, Xiangyu Yue*<br>
+      <strong><u>Chuang Yu</u></strong>, Yunpeng Liu*, Jinmiao Zhao, Ao Chen, Xiujun Shu, Bo Wang, Zelin Shi, Xiangyu Yue*<br>
 
       <strong style="display:inline-block; margin:6px 0;">IEEE Transactions on Image Processing, 2026 (Accepted)</strong>
     </p>
