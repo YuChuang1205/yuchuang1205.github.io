@@ -341,9 +341,9 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 # 🏆 Honors and Awards
-- *2026* Outstanding Graduates of Beijing (北京市优秀毕业生) (Top 2%)
+- *2026* <strong>Outstanding Graduates of Beijing (北京市优秀毕业生) </strong>
 - *2026* Outstanding Graduates of University of Chinese Academy of Sciences (Top 2%)
-- *2025* <strong>CAS President Award – Special Prize (中国科学院院长特别奖) (Top 0.1%)</strong>  ([news report](http://www.sia.cas.cn/xwzx/zhxw/202506/t20250624_7874445.html))
+- *2025* <strong>CAS President Award – Special Prize (中国科学院院长特别奖) </strong>  ([news report](http://www.sia.cas.cn/xwzx/zhxw/202506/t20250624_7874445.html))
 - *2024* <strong>The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application (Team leader)</strong> ([news report](http://www.sia.cas.cn/xwzx/kydt/202405/t20240527_7173244.html))
 - *2024* <strong>The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge (Team leader)</strong> ([news report](http://www.sia.cas.cn/xwzx/kydt/202411/t20241113_7438837.html))
 - *2024* The 2nd prize in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1. (Team leader)
