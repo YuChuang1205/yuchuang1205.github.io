@@ -39,13 +39,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News 🔥 
+-*2026.07*: &nbsp;🎉🎉 One paper [**KGL-Net**](https://arxiv.org/abs/2512.05530) is accepted by **TIP 2026**.<br>
+-*2026.06*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**Outstanding Graduates of Beijing (北京市优秀毕业生)**</span>.<br>
 -*2026.05*: &nbsp;🎉🎉 One paper [**MIND**](https://arxiv.org/abs/2512.05530) is accepted by **ICML 2026**.<br>
 -*2026.04*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**Outstanding Graduates of University of Chinese Academy of Sciences**</span>.<br>
 -*2025.12*: &nbsp;🌟🌟 Our new works, [**MIND**](https://arxiv.org/abs/2512.05530) and [**FDEP Framework**](https://arxiv.org/abs/2512.05511), have been released.<br>
 -*2025.11*: &nbsp;🎉🎉 One paper ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net)) is accepted by **TGRS 2025**.<br>
 -*2025.09*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion 2025**.<br>
 -*2025.06*: &nbsp;🎉🎉 One paper ([**PAL Framework**](https://github.com/YuChuang1205/PAL)) is accepted to **ICCV 2025**.<br>
--*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize**</span>.<br>
+-*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize (中国科学院院长特别奖)**</span>.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st Prize**</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**2nd Prize**</span> in the *ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1 and Track2*.<br>
 -*2024.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship**</span>.<br>
