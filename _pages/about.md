@@ -29,7 +29,7 @@ Since October 2024, I have been honored to be a Research Assistant at [**CUHK-MM
 -->
 I have been honored to be a **Postdoc** at **CUHK-MMLab** around September 2026, under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
 
-I was honored with the CAS President Award - Special Prize (<span style="color:#8B0000;">**中国科学院院长特别奖**</span>) in 2025, the Outstanding Graduates of Beijing (<span style="color:#8B0000;">**北京市优秀毕业生**</span>) in 2026 and was twice awarded the (<span style="color:#8B0000;">**National Scholarship for Ph.D. Students**</span>) in 2022 and 2024.
+I was honored with the CAS President Award - Special Prize (<span style="color:#8B0000;">**中国科学院院长特别奖**</span>) in 2025, the Outstanding Graduates of Beijing (<span style="color:#8B0000;">**北京市优秀毕业生**</span>) in 2026 and was twice awarded the <span style="color:#8B0000;">**National Scholarship for Ph.D. Students**</span> in 2022 and 2024.
 
 I won **the 1st place** of _Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application_ (Team leader) and **the 1st prize** in the _PRCV2024 Wide-area Infrared Small Target Detection Challenge_ (Team leader).
 
