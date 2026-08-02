@@ -206,7 +206,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_From_Easy_to_Hard_Progressive_Active_Learning_Framework_for_Infrared_ICCV_2025_paper.html">Paper</a> |
       <a href="https://github.com/YuChuang1205/PAL">Code</a>
-      <span style="margin-left:8px; font-weight:600;">🔥 Github 200+⭐</span>
+      <span style="margin-left:8px; font-weight:600;">🔥 Github 400+⭐</span>
     </p>
   </div>
 </div>
