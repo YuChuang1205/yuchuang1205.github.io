@@ -19,7 +19,7 @@ redirect_from:
 
 <h1 style="border-bottom: none;">Welcome to my website! 😆😆😆</h1>
 
-I am now working on Recursive self-improvement (RSI), Multi-image/video understanding and reasoning, Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000;">**academic cooperation (学术合作)**</span>, please feel free to email me at [**yuchuang@sia.cn**](yuchuang@sia.cn) / [**yuchuang1205@163.com**](yuchuang1205@163.com). 
+I am now working on Recursive Self-Improvement (RSI), Multimodal Chain-of-Thought (MCoT), Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000;">**academic cooperation (学术合作)**</span>, please feel free to email me at [**yuchuang@sia.cn**](yuchuang@sia.cn) / [**yuchuang1205@163.com**](yuchuang1205@163.com). 
 
 
 <!--
