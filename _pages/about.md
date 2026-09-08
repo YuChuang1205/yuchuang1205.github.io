@@ -19,7 +19,7 @@ redirect_from:
 
 <h1 style="border-bottom: none;">Welcome to my website! 😆😆😆</h1>
 
-I am now working on Multi-image/video understanding and reasoning, Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000;">**academic cooperation (学术合作)**</span>, please feel free to email me at [**yuchuang@sia.cn**](yuchuang@sia.cn) / [**yuchuang1205@163.com**](yuchuang1205@163.com). 
+I am now working on Recursive self-improvement (RSI), Multi-image/video understanding and reasoning, Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000;">**academic cooperation (学术合作)**</span>, please feel free to email me at [**yuchuang@sia.cn**](yuchuang@sia.cn) / [**yuchuang1205@163.com**](yuchuang1205@163.com). 
 
 
 <!--
@@ -27,7 +27,7 @@ I am a PHD student in the SIA-CAS's Master-Doctor combined program, supervised b
 
 Since October 2024, I have been honored to be a Research Assistant at [**CUHK-MMLab**](https://mmlab.ie.cuhk.edu.hk/people.html), under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
 -->
-I have been honored to be a **Postdoc** at **CUHK-MMLab** around September 2026, under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
+I have been honored to be a **Postdoc** at **CUHK-MMLab** in 2026, under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
 
 I was honored with the CAS President Award - Special Prize (<span style="color:#8B0000;">**中国科学院院长特别奖**</span>) in 2025, the Outstanding Graduates of Beijing (<span style="color:#8B0000;">**北京市优秀毕业生**</span>) in 2026 and was twice awarded the <span style="color:#8B0000;">**National Scholarship for Ph.D. Students**</span> in 2022 and 2024.
 
@@ -143,6 +143,7 @@ My research interest includes neural machine translation and computer vision. I 
       <a href="https://arxiv.org/abs/2512.05530">Paper</a> |
       <!-- | <a href="https://mind-project.github.io/">Project</a> -->
       <a href="https://github.com/YuChuang1205/MIND">Code</a>
+      <span style="margin-left:8px; font-weight:600;">🔥 Github 100+⭐</span>
     </p>
   </div>
 </div>
@@ -206,7 +207,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_From_Easy_to_Hard_Progressive_Active_Learning_Framework_for_Infrared_ICCV_2025_paper.html">Paper</a> |
       <a href="https://github.com/YuChuang1205/PAL">Code</a>
-      <span style="margin-left:8px; font-weight:600;">🔥 Github 400+⭐</span>
+      <span style="margin-left:8px; font-weight:600;">🔥 Github 500+⭐</span>
     </p>
   </div>
 </div>
