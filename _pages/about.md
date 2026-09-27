@@ -374,7 +374,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # ⚡ Academic Service:
-- Conference Reviewer: ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV ICPR, etc.
+- Conference Reviewer: ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, ICPR, etc.
 - Journal Reviewer: TGRS, Inf. Fusion, KBS, ESWA, EAAI, JSTARS, IPT,  Neurocomputing, etc.  
 
 
