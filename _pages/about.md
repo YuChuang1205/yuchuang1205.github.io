@@ -39,25 +39,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News 🔥 
--*2026.07*: &nbsp;🎉🎉 One paper [**KGL-Net**](https://github.com/YuChuang1205/KGL-Net) is accepted by **TIP 2026**.<br>
+-*2026.09*: &nbsp;🎉🎉 My one paper [**FDEP Framework**](https://arxiv.org/abs/2512.05511) is accepted by **NeurIPS 2026**.<br>
+-*2026.07*: &nbsp;🎉🎉 My one paper [**KGL-Net**](https://github.com/YuChuang1205/KGL-Net) is accepted by **TIP 2026**.<br>
 -*2026.06*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**Outstanding Graduates of Beijing**</span>.<br>
--*2026.05*: &nbsp;🎉🎉 One paper [**MIND**](https://arxiv.org/abs/2512.05530) is accepted by **ICML 2026**.<br>
+-*2026.05*: &nbsp;🎉🎉 My one paper [**MIND**](https://arxiv.org/abs/2512.05530) is accepted by **ICML 2026**.<br>
 -*2026.04*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**Outstanding Graduates of University of Chinese Academy of Sciences**</span>.<br>
--*2025.12*: &nbsp;🌟🌟 Our new works, [**MIND**](https://arxiv.org/abs/2512.05530) and [**FDEP Framework**](https://arxiv.org/abs/2512.05511), have been released.<br>
--*2025.11*: &nbsp;🎉🎉 One paper ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net)) is accepted by **TGRS 2025**.<br>
--*2025.09*: &nbsp;🎉🎉 One paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion 2025**.<br>
--*2025.06*: &nbsp;🎉🎉 One paper ([**PAL Framework**](https://github.com/YuChuang1205/PAL)) is accepted to **ICCV 2025**.<br>
+-*2025.11*: &nbsp;🎉🎉 One co-authored paper ([**MSDA-Net**](https://github.com/YuChuang1205/MSDA-Net)) is accepted by **TGRS 2025**.<br>
+-*2025.09*: &nbsp;🎉🎉 My one paper ([**RRL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **Information Fusion 2025**.<br>
+-*2025.06*: &nbsp;🎉🎉 My one paper ([**PAL Framework**](https://github.com/YuChuang1205/PAL)) is accepted to **ICCV 2025**.<br>
 -*2025.05*: &nbsp;🌸🌸 Honored with the  <span style="color:#8B0000;">**CAS President Award – Special Prize**</span>.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st Prize**</span> in the *PRCV2024 Wide-area Infrared Small Target Detection Challenge*.<br>
 -*2024.11*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**2nd Prize**</span> in the *ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1 and Track2*.<br>
 -*2024.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship**</span>.<br>
 -*2024.05*: &nbsp;🥇🥇 Awarded <span style="color:#8B0000;">**1st Place**</span> in the *2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application*.<br>
--*2023.10*: &nbsp;🎉🎉 One paper ([**FIL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TIP 2023**.<br>
--*2023.06*: &nbsp;🎉🎉 One paper ([**EFR-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2023**.<br>
+-*2023.10*: &nbsp;🎉🎉 My one paper ([**FIL-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TIP 2023**.<br>
+-*2023.06*: &nbsp;🎉🎉 My one paper ([**EFR-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2023**.<br>
 -*2022.11*: &nbsp;🌸🌸 Honored with the <span style="color:#8B0000;">**National Scholarship**</span>.<br>
--*2022.06*: &nbsp;🎉🎉 One paper ([**MFD-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2022**.<br>
--*2022.06*: &nbsp;🎉🎉 One paper is accepted to **J-START 2022**.<br>
--*2022.05*: &nbsp;🎉🎉 Two paper ([**MLCL-Net**](https://doi.org/10.1016/j.infrared.2022.104107)) and ([**ALCL-Net**](https://ieeexplore.ieee.org/document/9785618)) is accepted to **IPT 2022** and **GRSL 2022**.<br>
+-*2022.06*: &nbsp;🎉🎉 My one paper ([**MFD-Net**](https://github.com/YuChuang1205/RRL-Net)) is accepted to **TGRS 2022**.<br>
+-*2022.06*: &nbsp;🎉🎉 My one paper is accepted to **J-START 2022**.<br>
+-*2022.05*: &nbsp;🎉🎉 My two paper ([**MLCL-Net**](https://doi.org/10.1016/j.infrared.2022.104107)) and ([**ALCL-Net**](https://ieeexplore.ieee.org/document/9785618)) is accepted to **IPT 2022** and **GRSL 2022**.<br>
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications (Some representative papers)
@@ -151,6 +151,28 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 <div class="pub-item">
+  <img src="../images/FDEP_main.png">
+  <div class="pub-content">
+    <h3>Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Jinmiao Zhao, Yunpeng Liu*, Yaokun Li, Xiujun Shu, Yuanhao Feng, Bo Wang, Yimian Dai, Xiangyu Yue*<br>
+
+      <strong style="display:inline-block; margin:6px 0;">NeurIPS 2026</strong>
+    </p>
+    <p class="pub-desc">
+      We systematically introduce the frozen representations from VFMs into the SIRST task for the first time and propose a Foundation-Driven Efficient Paradigm (FDEP), which can seamlessly adapt to existing encoder-decoder-based methods and significantly improve accuracy without additional inference overhead.
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2512.05511">Paper</a> |
+      <!-- | <a href="https://your-project-page.github.io/">Project</a> -->
+      <a href="https://github.com/YuChuang1205/FDEP-Framework">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+
+<div class="pub-item">
   <img src="../images/KGL-Net_main.png">
   <div class="pub-content">
     <h3>Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching</h3>
@@ -170,27 +192,6 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 <hr class="pub-divider">
 
-
-<div class="pub-item">
-  <img src="../images/FDEP_main.png">
-  <div class="pub-content">
-    <h3>Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm</h3>
-    <p>
-      <strong><u>Chuang Yu</u></strong>, Jinmiao Zhao, Yunpeng Liu*, Yaokun Li, Xiujun Shu, Yuanhao Feng, Bo Wang, Yimian Dai, Xiangyu Yue*<br>
-
-      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
-    </p>
-    <p class="pub-desc">
-      We systematically introduce the frozen representations from VFMs into the SIRST task for the first time and propose a Foundation-Driven Efficient Paradigm (FDEP), which can seamlessly adapt to existing encoder-decoder-based methods and significantly improve accuracy without additional inference overhead.
-    </p>
-    <p>
-      <a href="https://arxiv.org/abs/2512.05511">Paper</a> |
-      <!-- | <a href="https://your-project-page.github.io/">Project</a> -->
-      <a href="https://github.com/YuChuang1205/FDEP-Framework">Code</a>
-    </p>
-  </div>
-</div>
-<hr class="pub-divider">
 
 <div class="pub-item">
   <img src="../images/PAL_main.png">
