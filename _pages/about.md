@@ -343,6 +343,7 @@ My research interest includes neural machine translation and computer vision. I 
 <hr class="pub-divider">
 
 # 🏆 Honors and Awards
+<div class="award-scroll" markdown="1">
 - *2026* <strong>Outstanding Graduates of Beijing (北京市优秀毕业生) </strong>
 - *2026* Outstanding Graduates of University of Chinese Academy of Sciences (Top 2%)
 - *2025* <strong>CAS President Award – Special Prize (中国科学院院长特别奖) </strong>  ([news report](http://www.sia.cas.cn/xwzx/zhxw/202506/t20250624_7874445.html))
@@ -359,6 +360,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021, 2023 and 2024* First Class Academic Scholarship of Shenyang Institute of Automation, CAS (Top 10%)
 - *2020* **Outstanding Graduates** (Top 1%)
 - *2019* The 2nd prize of China Collegiate Computing Contest Artificial Intelligence Innovation Contest. (Team leader)
+</div>
 
 <!--
 # 🚀 Some personal news reports:
