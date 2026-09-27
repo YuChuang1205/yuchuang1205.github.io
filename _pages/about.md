@@ -157,7 +157,7 @@ My research interest includes neural machine translation and computer vision. I 
     <p>
       <strong><u>Chuang Yu</u></strong>, Jinmiao Zhao, Yunpeng Liu*, Yaokun Li, Xiujun Shu, Yuanhao Feng, Bo Wang, Yimian Dai, Xiangyu Yue*<br>
 
-      <strong style="display:inline-block; margin:6px 0;">NeurIPS 2026</strong>
+      <strong style="display:inline-block; margin:6px 0;">NeurIPS 2026 (Accepted)</strong>
     </p>
     <p class="pub-desc">
       We systematically introduce the frozen representations from VFMs into the SIRST task for the first time and propose a Foundation-Driven Efficient Paradigm (FDEP), which can seamlessly adapt to existing encoder-decoder-based methods and significantly improve accuracy without additional inference overhead.
