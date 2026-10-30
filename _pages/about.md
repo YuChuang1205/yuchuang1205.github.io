@@ -155,6 +155,36 @@ My research interest includes neural machine translation and computer vision. I 
 </style>
 
 
+
+
+
+<div class="pub-item">
+  <img src="../images/ReState_main.png">
+  <div class="pub-content">
+    <h3>From Stages to States: Unified Iterative Reasoning for MLLMs</h3>
+    <p>
+      <strong><u>Chuang Yu</u></strong>, Xuefei Ma, Yuanhao Feng, Wuxiong Zeng, Bo Wang, Minghong Cai, Dongming Wu, Fei Zhou, Chen Tang, Wenwen Tong, Lewei Lu, Xiangyu Yue*<br>
+
+      <strong style="display:inline-block; margin:6px 0;">Under review</strong>
+    </p>
+    <p class="pub-desc">
+      We propose \textbf{\textit{ReState}}, a unified iterative reasoning framework that reformulates multimodal reasoning from a stage-driven pipeline into a state-driven dynamic process.
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2610.15620">Paper</a> |
+      <!-- | <a href="https://mind-project.github.io/">Project</a> -->
+      <a href="https://github.com/YuChuang1205/ReState">Code</a>
+       <!-- <span style="margin-left:8px; font-weight:600;">🔥 Github 100+⭐</span> -->
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+
+
+
+
+
 <div class="pub-item">
   <img src="../images/MIND_main.png">
   <div class="pub-content">
