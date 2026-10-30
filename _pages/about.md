@@ -171,8 +171,8 @@ My research interest includes neural machine translation and computer vision. I 
       We propose ReState, a unified iterative reasoning framework that reformulates multimodal reasoning from a stage-driven pipeline into a state-driven dynamic process.
     </p>
     <p>
-      <a href="https://arxiv.org/abs/2610.15620">Paper</a> |
       <a href="https://restate-project.github.io">Website</a> |
+      <a href="https://arxiv.org/abs/2610.15620">Paper</a> |
       <a href="https://github.com/YuChuang1205/ReState">Code</a>
        <!-- <span style="margin-left:8px; font-weight:600;">🔥 Github 100+⭐</span> -->
     </p>
