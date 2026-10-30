@@ -168,7 +168,7 @@ My research interest includes neural machine translation and computer vision. I 
       <strong style="display:inline-block; margin:6px 0;">Under review</strong>
     </p>
     <p class="pub-desc">
-      We propose \textbf{\textit{ReState}}, a unified iterative reasoning framework that reformulates multimodal reasoning from a stage-driven pipeline into a state-driven dynamic process.
+      We propose ReState, a unified iterative reasoning framework that reformulates multimodal reasoning from a stage-driven pipeline into a state-driven dynamic process.
     </p>
     <p>
       <a href="https://arxiv.org/abs/2610.15620">Paper</a> |
